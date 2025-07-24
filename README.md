@@ -13,6 +13,10 @@ The dataset includes information such as:
 - 📬 **Address**
 - 🚨 **Title** (emergency category)
 - 🔘 **Dummy variable** (indicating presence of traffic)
+- ## 📂 Files Included
+
+- `911_calls_analysis.ipynb` – The main notebook for analysis
+- `911.csv` – The dataset used for this project (from Kaggle)
 
 ## 🎯 Objectives
 - Identify the most common types of 911 calls
@@ -35,6 +39,13 @@ The dataset includes information such as:
 3. Run all cells from top to bottom
 
 ---
+⚠️ Due to GitHub’s file size limit, the dataset (`911.csv`) is not included in this repository.
+
+➡️ Download the original dataset from:  
+[Kaggle – MontcoAlert 911 Calls](https://www.kaggle.com/datasets/mchirico/montcoalert)
+
+Once downloaded, place it in the same directory as the notebook before running.
+
 
 **Note:** Data used is from [Kaggle – 911 Calls Dataset](https://www.kaggle.com/datasets/mchirico/montcoalert)
 
